@@ -1,0 +1,51 @@
+body{
+    background-attachment: fixed;
+}
+
+#contact{
+    font-size: 20px;
+    color: red;
+}
+
+.upper_container{
+    display: flex;
+
+}
+
+.inline1{
+    width: 30%;
+    margin-left: 25px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.inline2{
+    margin-top: 25px;
+    padding-left: 30px;
+    margin-right: 25px;
+}
+
+#name{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: medium;
+    color: blue;
+    padding-left: 20px;
+}
+
+.icon{
+    width: 40px;
+    height: 40px;
+}
+
+#aboutMe{
+    text-align: center;
+}
+
+#carouselProject{
+    width: 500px;
+    height: 300px;
+    justify-content: center;
+    margin-left: 50px;
+}
